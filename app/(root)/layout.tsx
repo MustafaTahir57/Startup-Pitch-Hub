@@ -7,5 +7,4 @@ export default function layout({children}: Readonly <{children: React.ReactNode}
         {children}
        </main>
     )
-
 }
